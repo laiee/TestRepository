@@ -14,6 +14,7 @@ namespace MyGitHubExample
             // change3
             // change4
             // change6
+            // change7
         }
     }
 }
